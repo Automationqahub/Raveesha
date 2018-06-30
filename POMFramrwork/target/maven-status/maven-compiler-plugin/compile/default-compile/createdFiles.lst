@@ -1,0 +1,9 @@
+com\vtiger\pages\headerPage.class
+com\vtiger\tests\BaseTest.class
+com\vtiger\tests\VerifyLeadsFunctionality.class
+com\vtiger\pages\loginPage.class
+com\vtiger\pages\leadsPage.class
+com\vtiger\pages\newleadPage.class
+com\vtiger\pages\homePage.class
+com\vtiger\common\commonFunctions.class
+com\vtiger\tests\TestLogin.class

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26950" started-at="2018-06-30T05:00:14Z" finished-at="2018-06-30T05:00:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26950" started-at="2018-06-30T05:00:14Z" finished-at="2018-06-30T05:00:41Z">
+      <class name="com.vtiger.tests.VerifyLeadsFunctionality">
+        <test-method status="PASS" signature="lauchApp()[pri:0, instance:com.vtiger.tests.VerifyLeadsFunctionality@1684286]" name="lauchApp" is-config="true" duration-ms="4481" started-at="2018-06-30T10:30:23Z" finished-at="2018-06-30T10:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchApp -->
+        <test-method status="PASS" signature="createLead()[pri:0, instance:com.vtiger.tests.VerifyLeadsFunctionality@1684286]" name="createLead" duration-ms="9743" started-at="2018-06-30T10:30:28Z" finished-at="2018-06-30T10:30:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.vtiger.tests.VerifyLeadsFunctionality@1684286]" name="closeApp" is-config="true" duration-ms="3111" started-at="2018-06-30T10:30:37Z" finished-at="2018-06-30T10:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.vtiger.tests.VerifyLeadsFunctionality -->
+      <class name="com.vtiger.tests.TestLogin">
+        <test-method status="PASS" signature="lauchApp()[pri:0, instance:com.vtiger.tests.TestLogin@203ea1]" name="lauchApp" is-config="true" duration-ms="5276" started-at="2018-06-30T10:30:14Z" finished-at="2018-06-30T10:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchApp -->
+        <test-method status="PASS" signature="LoginPageUIValidation()[pri:0, instance:com.vtiger.tests.TestLogin@203ea1]" name="LoginPageUIValidation" duration-ms="166" started-at="2018-06-30T10:30:19Z" finished-at="2018-06-30T10:30:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageUIValidation -->
+        <test-method status="PASS" signature="invalidLogin()[pri:0, instance:com.vtiger.tests.TestLogin@203ea1]" name="invalidLogin" duration-ms="1063" started-at="2018-06-30T10:30:19Z" finished-at="2018-06-30T10:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:com.vtiger.tests.TestLogin@203ea1]" name="validLogin" duration-ms="3087" started-at="2018-06-30T10:30:20Z" finished-at="2018-06-30T10:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.vtiger.tests.TestLogin@203ea1]" name="closeApp" is-config="true" duration-ms="0" started-at="2018-06-30T10:30:23Z" finished-at="2018-06-30T10:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.vtiger.tests.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
